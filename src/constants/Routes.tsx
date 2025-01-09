@@ -28,7 +28,7 @@ const routes: RouteObject[] = [
 ];
 
 const router = createBrowserRouter(routes, {
-  // basename: '/billing-web'
+  // basename: '/prj-billing-web'
 });
 
 export default router;
